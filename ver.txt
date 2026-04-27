@@ -1,2 +1,2 @@
 1.0
-https://github.com/baishen6668/baishen/releases/download/v1.0/kernel.sh
+https://ghproxy.com/https://github.com/baishen6668/baishen/releases/download/v1.0/kernel.sh
