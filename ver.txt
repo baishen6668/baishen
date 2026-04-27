@@ -1,2 +1,2 @@
 1.0
-https://github.com/baishen6668/baishen/releases/download/v1.0/kernel.sh  # 刚才复制的直链
+https://github.com/baishen6668/baishen/releases/download/v1.0/kernel.sh
