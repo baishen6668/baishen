@@ -1,1 +1,2 @@
-1
+1.0  # 版本号（和你刚才填的v1.0对应，去掉v写数字）
+https://ghproxy.com/https://github.com/baishen6668/baishen/releases/download/v1.0/kernel.sh  # 刚才复制的直链
